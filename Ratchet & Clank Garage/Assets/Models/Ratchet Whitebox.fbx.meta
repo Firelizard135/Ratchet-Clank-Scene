@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 66b04a9f20a936e4099b722719a10ada
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: head
+    100002: hips
+    100004: L_AnkleJoint
+    100006: L_ElbowJoint
+    100008: L_FingerJoint
+    100010: L_Fingers
+    100012: L_Foot
+    100014: L_ForeArm
+    100016: L_Hand
+    100018: L_KneeJoint
+    100020: L_LowerLeg
+    100022: L_ShoulderJoint
+    100024: L_Thumb
+    100026: L_ThumbJoint
+    100028: L_UpperArm
+    100030: L_UpperLeg
+    100032: L_UpperLegJoint
+    100034: L_WristJoint
+    100036: lowerTorso
+    100038: lowerTorsoJoint
+    100040: midTorso
+    100042: neckJoint
+    100044: R_AnkleJoint
+    100046: R_ElbowJoint
+    100048: R_FingerJoint
+    100050: R_Fingers
+    100052: R_Foot
+    100054: R_ForeArm
+    100056: R_Hand
+    100058: R_KneeJoint
+    100060: R_LowerLeg
+    100062: R_ShoulderJoint
+    100064: R_Thumb
+    100066: R_ThumbJoint
+    100068: R_UpperArm
+    100070: R_UpperLeg
+    100072: R_UpperLegJoint
+    100074: R_WristJoint
+    100076: //RootNode
+    100078: upperTorso
+    100080: upperTorsoJoint
+    100082: waistJoint
+    400000: head
+    400002: hips
+    400004: L_AnkleJoint
+    400006: L_ElbowJoint
+    400008: L_FingerJoint
+    400010: L_Fingers
+    400012: L_Foot
+    400014: L_ForeArm
+    400016: L_Hand
+    400018: L_KneeJoint
+    400020: L_LowerLeg
+    400022: L_ShoulderJoint
+    400024: L_Thumb
+    400026: L_ThumbJoint
+    400028: L_UpperArm
+    400030: L_UpperLeg
+    400032: L_UpperLegJoint
+    400034: L_WristJoint
+    400036: lowerTorso
+    400038: lowerTorsoJoint
+    400040: midTorso
+    400042: neckJoint
+    400044: R_AnkleJoint
+    400046: R_ElbowJoint
+    400048: R_FingerJoint
+    400050: R_Fingers
+    400052: R_Foot
+    400054: R_ForeArm
+    400056: R_Hand
+    400058: R_KneeJoint
+    400060: R_LowerLeg
+    400062: R_ShoulderJoint
+    400064: R_Thumb
+    400066: R_ThumbJoint
+    400068: R_UpperArm
+    400070: R_UpperLeg
+    400072: R_UpperLegJoint
+    400074: R_WristJoint
+    400076: //RootNode
+    400078: upperTorso
+    400080: upperTorsoJoint
+    400082: waistJoint
+    2100000: Default_Material
+    2100002: lambert1
+    2300000: head
+    2300002: hips
+    2300004: L_AnkleJoint
+    2300006: L_ElbowJoint
+    2300008: L_FingerJoint
+    2300010: L_Fingers
+    2300012: L_Foot
+    2300014: L_ForeArm
+    2300016: L_Hand
+    2300018: L_KneeJoint
+    2300020: L_LowerLeg
+    2300022: L_ShoulderJoint
+    2300024: L_Thumb
+    2300026: L_ThumbJoint
+    2300028: L_UpperArm
+    2300030: L_UpperLeg
+    2300032: L_UpperLegJoint
+    2300034: L_WristJoint
+    2300036: lowerTorso
+    2300038: lowerTorsoJoint
+    2300040: midTorso
+    2300042: neckJoint
+    2300044: R_AnkleJoint
+    2300046: R_ElbowJoint
+    2300048: R_FingerJoint
+    2300050: R_Fingers
+    2300052: R_Foot
+    2300054: R_ForeArm
+    2300056: R_Hand
+    2300058: R_KneeJoint
+    2300060: R_LowerLeg
+    2300062: R_ShoulderJoint
+    2300064: R_Thumb
+    2300066: R_ThumbJoint
+    2300068: R_UpperArm
+    2300070: R_UpperLeg
+    2300072: R_UpperLegJoint
+    2300074: R_WristJoint
+    2300076: upperTorso
+    2300078: upperTorsoJoint
+    2300080: waistJoint
+    3300000: head
+    3300002: hips
+    3300004: L_AnkleJoint
+    3300006: L_ElbowJoint
+    3300008: L_FingerJoint
+    3300010: L_Fingers
+    3300012: L_Foot
+    3300014: L_ForeArm
+    3300016: L_Hand
+    3300018: L_KneeJoint
+    3300020: L_LowerLeg
+    3300022: L_ShoulderJoint
+    3300024: L_Thumb
+    3300026: L_ThumbJoint
+    3300028: L_UpperArm
+    3300030: L_UpperLeg
+    3300032: L_UpperLegJoint
+    3300034: L_WristJoint
+    3300036: lowerTorso
+    3300038: lowerTorsoJoint
+    3300040: midTorso
+    3300042: neckJoint
+    3300044: R_AnkleJoint
+    3300046: R_ElbowJoint
+    3300048: R_FingerJoint
+    3300050: R_Fingers
+    3300052: R_Foot
+    3300054: R_ForeArm
+    3300056: R_Hand
+    3300058: R_KneeJoint
+    3300060: R_LowerLeg
+    3300062: R_ShoulderJoint
+    3300064: R_Thumb
+    3300066: R_ThumbJoint
+    3300068: R_UpperArm
+    3300070: R_UpperLeg
+    3300072: R_UpperLegJoint
+    3300074: R_WristJoint
+    3300076: upperTorso
+    3300078: upperTorsoJoint
+    3300080: waistJoint
+    4300000: L_ThumbJoint
+    4300002: R_ThumbJoint
+    4300004: L_FingerJoint
+    4300006: R_FingerJoint
+    4300008: L_WristJoint
+    4300010: R_WristJoint
+    4300012: L_ElbowJoint
+    4300014: R_ElbowJoint
+    4300016: L_ShoulderJoint
+    4300018: R_ShoulderJoint
+    4300020: L_AnkleJoint
+    4300022: R_AnkleJoint
+    4300024: L_KneeJoint
+    4300026: R_KneeJoint
+    4300028: L_UpperLegJoint
+    4300030: R_UpperLegJoint
+    4300032: waistJoint
+    4300034: lowerTorsoJoint
+    4300036: upperTorsoJoint
+    4300038: neckJoint
+    4300040: L_UpperArm
+    4300042: R_UpperArm
+    4300044: L_Fingers
+    4300046: R_Fingers
+    4300048: L_Thumb
+    4300050: R_Thumb
+    4300052: L_Hand
+    4300054: R_Hand
+    4300056: L_ForeArm
+    4300058: R_ForeArm
+    4300060: R_Foot
+    4300062: L_Foot
+    4300064: R_LowerLeg
+    4300066: L_LowerLeg
+    4300068: R_UpperLeg
+    4300070: L_UpperLeg
+    4300072: hips
+    4300074: lowerTorso
+    4300076: midTorso
+    4300078: upperTorso
+    4300080: head
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Ratchet Whitebox(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: L_ThumbJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 58.027905, y: 49.957417, z: 4.249655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ThumbJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 58.027905, y: 49.957417, z: 4.249655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FingerJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 75.267296, y: 62.835117, z: -0.07619819}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FingerJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 75.267296, y: 62.835117, z: -0.07619819}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_WristJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 53.38592, y: 45.453884, z: -0.031702306}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_WristJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 53.38592, y: 45.453884, z: -0.031702306}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ElbowJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 33.302692, y: 52.62275, z: -0.061121225}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ElbowJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 33.302692, y: 52.62275, z: -0.061121225}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ShoulderJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 17.06017, y: 35.51927, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ShoulderJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 17.06017, y: 35.51927, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_AnkleJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 12.8833065, y: 12.735389, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_AnkleJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 12.8833065, y: 12.735389, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_KneeJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 12.078099, y: 33.312893, z: 0.9168397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_KneeJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 12.078099, y: 33.312893, z: 0.9168397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_UpperLegJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 8.320469, y: 48.164482, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_UpperLegJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 8.320469, y: 48.164482, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: waistJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 62.837135, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lowerTorsoJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 75.85268, z: -0.21726519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upperTorsoJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 91.30864, z: 0.38413376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neckJoint
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 106.31914, z: -2.5177007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_UpperArm
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 23.578432, y: 99.039986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_UpperArm
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 23.578432, y: 99.039986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Fingers
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 84.331985, y: 100.20916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Fingers
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 84.331985, y: 100.20916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Thumb
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 68.17043, y: 85.30619, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Thumb
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 68.17043, y: 85.30619, z: -0.6668366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 62.55105, y: 99.039986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 62.55105, y: 99.039986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ForeArm
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 44.509113, y: 98.56899, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ForeArm
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 44.509113, y: 98.56899, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Foot
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 15.304689, y: 6.724242, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Foot
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 15.304689, y: 6.724242, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_LowerLeg
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 13.950293, y: 21.782513, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_LowerLeg
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 13.950293, y: 21.782513, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_UpperLeg
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 11.241498, y: 39.636097, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_UpperLeg
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: 11.241498, y: 39.636097, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hips
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 53.569508, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lowerTorso
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 95.28513, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: midTorso
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 95.28513, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upperTorso
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 95.60812, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: Ratchet Whitebox(Clone)
+      position: {x: -0, y: 124.759895, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
