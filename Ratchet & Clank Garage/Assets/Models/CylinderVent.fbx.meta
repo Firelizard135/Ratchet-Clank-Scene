@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7bba40ef7e7d3f14290a06a0d0864ad0
+guid: 299650f55d0c2b5429334a572e9b7cd2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: GarageDoor
+    4300000: CylinderVent
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
